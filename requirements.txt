@@ -1,0 +1,5 @@
+asyncpg
+aiohttp
+boto3
+python-dotenv
+certifi
